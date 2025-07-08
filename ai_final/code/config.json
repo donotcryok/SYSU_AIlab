@@ -1,0 +1,24 @@
+{
+  "yizhuihe_path": "e:/ai_final/yizhuihe",
+  "weizhuihe_path": "e:/ai_final/weizhuihe", 
+  "excel_path": "e:/ai_final/zhuihetongji.xlsx",
+  "results_dir": "e:/ai_final/results",
+  "models_dir": "e:/ai_final/models",
+  "training": {
+    "epochs": 10,
+    "batch_size": 10,
+    "learning_rate": 0.0001,
+    "validation_split": 0.2
+  },
+  "image_processing": {
+    "target_size": [256, 512],
+    "edge_threshold_low": 50,
+    "edge_threshold_high": 150,
+    "min_contour_area": 500
+  },
+  "analysis": {
+    "completeness_threshold": 0.7,
+    "matching_threshold": 0.5,
+    "sample_size": 50
+  }
+}

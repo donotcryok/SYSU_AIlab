@@ -1,0 +1,37 @@
+# 竹简缀合识别系统依赖包 - 优化版
+
+# 深度学习框架
+torch>=1.9.0
+torchvision>=0.10.0
+
+# 图像处理
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# 数据处理
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# 可视化
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# 进度条和工具
+tqdm>=4.62.0
+
+# Excel文件处理
+openpyxl>=3.0.0
+
+# 图像增强和变换
+albumentations>=1.1.0
+
+# 正则表达式（通常内置，但确保兼容性）
+regex>=2021.0.0
+
+# 其他工具
+pathlib
+json
+logging
+tempfile
+random
