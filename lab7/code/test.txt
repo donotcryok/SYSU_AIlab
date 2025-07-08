@@ -1,0 +1,10 @@
+test/baihe01.jpg:0
+test/baihe02.jpg:0
+test/dangshen01.jpg:1
+test/dangshen02.jpg:1
+test/gouqi01.jpg:2
+test/gouqi02.jpg:2
+test/huaihua01.jpg:3
+test/huaihua02.jpg:3
+test/jinyinhua01.jpg:4
+test/jinyinhua02.jpg:4
